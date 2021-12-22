@@ -19,7 +19,7 @@
 		"errorDetails": [],
 		"isDefault": true,
 		"name": "registry.terraform.io",
-		"nameSpace": "AccCrop",
+		"nameSpace": "waylew",
 		"token": "",
 		"type": "PUBLIC",
 		"url": "https://registry.terraform.io",
