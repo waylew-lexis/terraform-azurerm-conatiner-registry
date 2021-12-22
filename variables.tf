@@ -18,3 +18,9 @@ variable "resource_group_name" {
   sensitive   = true
 }
 
+variable "public_access_enabled" {
+  type        = bool
+  description = "Whether public network access is allowed for the container registry"
+  default     = false
+}
+
